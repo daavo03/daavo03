@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **Openstack**
 
 - 📫 How to reach me **daavo.1002@gmail.com**
 
